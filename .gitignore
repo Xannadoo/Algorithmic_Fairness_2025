@@ -1,2 +1,3 @@
-exercises/
-**/*.ipynb_checkpoints/
+exercises/*
+solutions/*
+*.ipynb_checkpoints/

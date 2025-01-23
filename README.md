@@ -1,9 +1,11 @@
 # Algorithmic_Fairness_2025
+
 ## IT University of Copenhagen (Spring 2024)
 
 AFAE course is an overview on the topics of bias and fairness in data, models, and algorithms, and on the associated ethical and accountability issues. **This repository** contains exercises for [Spring semester 2025](https://learnit.itu.dk/course/view.php?id=3024271).
 
-### Lectures and exercises:
+### Lectures and exercises
+
 1. [Introduction](https://github.com/Xannadoo/Algorithmic_Fairness_2025/tree/main/01_Introduction)
 2. Fairness metrics
 3. Explainability: Motivation and White-box models
@@ -19,7 +21,8 @@ AFAE course is an overview on the topics of bias and fairness in data, models, a
 13. Fairness & Generative AI
 14. Recap, Evaluation and Feedback
 
-### Team:
+### Team
+
 * [Vedran Sekara](mailto:vsek@itu.dk) (Course manager & Teacher)
 * [Pawel Grabarczyk](mailto:pawg@itu.dk) (Teacher)
 * [Chrisanna Kate Cornish](mailto:ccor@itu.dk) (Teaching Assistant)
