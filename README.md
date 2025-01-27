@@ -21,6 +21,12 @@ AFAE course is an overview on the topics of bias and fairness in data, models, a
 13. Fairness & Generative AI
 14. Recap, Evaluation and Feedback
 
+### Mandatory Assignment Deadlines
+
+1. Febuary 24th 2025
+2. March 24th 2025
+3. April 27th 2025
+
 ### Team
 
 * [Vedran Sekara](mailto:vsek@itu.dk) (Course manager & Teacher)
