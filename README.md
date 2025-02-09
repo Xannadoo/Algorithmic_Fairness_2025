@@ -8,7 +8,7 @@ AFAE course is an overview on the topics of bias and fairness in data, models, a
 
 1. [Introduction](https://github.com/Xannadoo/Algorithmic_Fairness_2025/tree/main/01_Introduction)
 2. [Fairness metrics](https://github.com/Xannadoo/Algorithmic_Fairness_2025/tree/main/02_Fairness_Metrics)
-3. Explainability: Motivation and White-box models
+3. [Explainability: Motivation and White-box models](https://github.com/Xannadoo/Algorithmic_Fairness_2025/tree/main/03_Explainability_1)
 4. Explainability: Black-box models
 5. Bias sources
 6. Debiasing models
