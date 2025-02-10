@@ -23,7 +23,7 @@ AFAE course is an overview on the topics of bias and fairness in data, models, a
 
 ### Mandatory Assignment Deadlines
 
-1. Febuary 24th 2025
+1. **March 3rd 2025** Note new date!
 2. March 24th 2025
 3. April 27th 2025
 
