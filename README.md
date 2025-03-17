@@ -13,7 +13,7 @@ AFAE course is an overview on the topics of bias and fairness in data, models, a
 5. [Bias sources](https://github.com/Xannadoo/Algorithmic_Fairness_2025/tree/main/05_Bias_Sources)
 6. [Debiasing models](https://github.com/Xannadoo/Algorithmic_Fairness_2025/tree/main/06_Debias_Models)
 7. The Ethics of Fairness [Discussion exercise notes here](https://docs.google.com/document/d/1zwyWsxh0-_fnMSvsD8DCsszS27zOABfPf5agJEotVAY/edit?usp=sharing)
-8. Ethics on a Societal Scale
+8. Ethics on a Societal Scale - work on mandatory assignment 2 - exercises cancelled
 9. Philosophy of big data
 10. Debiasing data
 11. Robustness of Models
@@ -23,8 +23,8 @@ AFAE course is an overview on the topics of bias and fairness in data, models, a
 
 ### Mandatory Assignment Deadlines
 
-1. **March 3rd 2025** Note new date!
-2. March 24th 2025
+1. March 3rd 2025 
+2. **March 31st 2025** Note new date!
 3. April 27th 2025
 
 ### Team
