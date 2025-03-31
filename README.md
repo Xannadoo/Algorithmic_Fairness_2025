@@ -25,7 +25,7 @@ AFAE course is an overview on the topics of bias and fairness in data, models, a
 
 1. March 3rd 2025
 2. **March 31st 2025** Note new date!
-3. April 27th 2025
+3. April 28th 2025
 
 ### Team
 
