@@ -18,12 +18,12 @@ AFAE course is an overview on the topics of bias and fairness in data, models, a
 10. [Debiasing data](https://github.com/Xannadoo/Algorithmic_Fairness_2025/tree/main/10_Debias_Data)
 11. [Robustness of Models](https://github.com/Xannadoo/Algorithmic_Fairness_2025/tree/main/11_Robustness)
 12. [Auditing Algorithms](https://github.com/Xannadoo/Algorithmic_Fairness_2025/tree/main/12_Auditing)
-13. [Fairness & Generative AI](https://github.com/Xannadoo/Algorithmic_Fairness_2025/tree/main/12_Fairness_GenAI)
+13. [Fairness & Generative AI](https://github.com/Xannadoo/Algorithmic_Fairness_2025/tree/main/13_Fairness_GenAI)
 14. Recap, Evaluation and Feedback
 
 ### Mandatory Assignment Deadlines
 
-1. March 3rd 2025 
+1. March 3rd 2025
 2. **March 31st 2025** Note new date!
 3. April 27th 2025
 
