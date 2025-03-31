@@ -15,10 +15,10 @@ AFAE course is an overview on the topics of bias and fairness in data, models, a
 7. The Ethics of Fairness [Discussion exercise notes here](https://docs.google.com/document/d/1zwyWsxh0-_fnMSvsD8DCsszS27zOABfPf5agJEotVAY/edit?usp=sharing)
 8. Ethics on a Societal Scale - exercise session cancelled, we will discuss [Rawls' Thought Experiment](https://docs.google.com/document/d/1_4PSuonqEYxboi0fD1Zxuaj__e90lGXVYUH2ait-DSw/edit?usp=sharing) next week
 9. Philosophy of big data
-10. Debiasing data
-11. Robustness of Models
-12. Auditing Algorithms
-13. Fairness & Generative AI
+10. [Debiasing data](https://github.com/Xannadoo/Algorithmic_Fairness_2025/tree/main/10_Debias_Data)
+11. [Robustness of Models](https://github.com/Xannadoo/Algorithmic_Fairness_2025/tree/main/11_Robustness)
+12. [Auditing Algorithms](https://github.com/Xannadoo/Algorithmic_Fairness_2025/tree/main/12_Auditing)
+13. [Fairness & Generative AI](https://github.com/Xannadoo/Algorithmic_Fairness_2025/tree/main/12_Fairness_GenAI)
 14. Recap, Evaluation and Feedback
 
 ### Mandatory Assignment Deadlines
